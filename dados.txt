@@ -1,0 +1,14 @@
+Dados do aluno
+
+-Primeiro Nome: Nayara Marques Nuzzi
+-Profissão: Gerente de loja
+-Cidade: São Paulo 
+-O que faz nas horas vaga: Estudo ou descanso 
+-Feedback sobre o curso Qualidade de Software: Bom curso, mas acho que deveria melhorar principalmente o formato de comunicação com os alunos tento uma forma privada e direta com o aluno como um whats. 
+ feedback certo do que e o erro do aluno, os videos deveriam ter mais exemplos e não ser mastigado e depois da um exercicío no qual não teve uma explicação boa.
+
+-Feedback sobre a plataforma de estudo da EBAC: Bom, mas o titulo da EBAC deveria descongelar e deixar com que posso rolar a barra de rolamento tranquilamente  sem o titulo descer junto, pois atrapalha para ver os videos.
+
+Obrigado!!!
+
+
